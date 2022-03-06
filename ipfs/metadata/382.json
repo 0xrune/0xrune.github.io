@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #382",
+    "rune": "Red Isa",
+    "description": "A Rune sacred to intensity, it intensifies any other rune associated with it. Right Side: The rune of obstacles and mental blocks. It is a barrier stopping or preventing, while warning against proceeding. As a beacon it is a 'shining light', but stillness, patience and sacrifice of the 'I' may win the prize. Other meanings include: coldness between people, lethargy, death end, termination, strong hidden forces and blocks to thought and deed. This rune intensifies the meaning of any other runes associated with it. Reversed: This rune reversed is indicative of a coldness which gives rise to conflict and arguments. only by acting positively can the ice be melted.",
+    "image": "382.png",
+    "edition": 382,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/382.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Isa"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Transverse"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

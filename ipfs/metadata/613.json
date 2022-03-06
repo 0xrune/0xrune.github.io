@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #613",
+    "rune": "Red Fehu (Reversed)",
+    "description": "A Rune sacred to Freya, Goddess of fecundity and love. Right Side: A fulfilment rune of good fortune, material stability, security, wealth. FEOH feeds and nourishes on both the spiritual and material planes. An indication of something earned or won. 'The primal cow, the sow, the fertile originating animals, our common beginning.' It is essential to share good fortune with others. This rune also indicates fertility and harmony. Reversed: At a standstill, lack of balance and possibly some form of loss.",
+    "image": "613.png",
+    "edition": 613,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/613.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Copper"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Fehu"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

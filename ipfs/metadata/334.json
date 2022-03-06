@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #334",
+    "rune": "Black Ehwaz",
+    "description": "A Rune sacred to Frey, Summer sun and the erect penis. Right Side: This is a rune of travel and change, possibly of job, career, residence or maybe all three. This rune brings a message from the Gods and rank, pride, happiness and an aid to the restless. It may also indicate spiritual journeys and faith in one's destiny. Reversed: This rune reversed warns of a restlessness and a desire to escape by travelling or moving away from the problem - a passage away from pain.",
+    "image": "334.png",
+    "edition": 334,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/334.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "None"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Black Ehwaz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Enhance"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Rotate90"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

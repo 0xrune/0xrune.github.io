@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #205",
+    "rune": "White Perthro (Reversed)",
+    "description": "A Rune sacred to Frigg, the 'All Mother'. Right Side: This is a rune of mystery and things not being quite what they seem. It is a time to experience the unexpected and live for the now. Other meanings include: womb, female fertility. A game that is played between 'desire and destiny'. A rune of revelation. Reversed: This rune reversed is symbolic of hidden things that are revealed and cast out into the open.",
+    "image": "205.png",
+    "edition": 205,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/205.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Yggdrasil"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "White Perthro"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

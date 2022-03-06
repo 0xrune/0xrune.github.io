@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #774",
+    "rune": "Red Uruz",
+    "description": "A Rune sacred to Thor, God of thunder and strength. Right Side: A rune of creativity and sexual energy. UR also represents the death of a cycle, out with the old wild ox and in with the new. May indicate a dark period with material loss or the loss of a person but new opportunities will arise from this. It is indicative of an unpredictable power, tests and greed. Opportunities, sexuality and good luck are the keywords for this rune. Reversed: Opportunities that have passed by possible health problems and a lack of progress in certain areas.",
+    "image": "774.png",
+    "edition": 774,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/774.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Uruz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Rotate180"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0.5"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #720",
+    "rune": "White Mannaz",
+    "description": "A Rune sacred to Odin, the 'All Father' and Heimdall, the watcher. Right Side: This is the rune of mankind and all of the attributes which set humans apart. it suggests that the middle path should be sought and followed, and it also refers to family matters. Other meanings include: a connection to others, mutual joy intelligence, memory and culture. Also, a desire for change. Reversed: This rune reversed symbolizes a lack of common sense. A need for solace and isolation, particularly form family.",
+    "image": "720.png",
+    "edition": 720,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/720.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "White Mannaz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "FlipHorizontal"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0.75"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

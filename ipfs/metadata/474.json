@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #474",
+    "rune": "Red Laguz",
+    "description": "A Rune sacred to Njord, God of the wealth of the sea. Right Side: This is the rune of unconscious intuition and mystery. It can be indicative of some levels of psychic ability and the courage to trust in hunches. It can mean success in travel, also gains made at the expense of loss. Other meanings include: the ebb and the flow of the tides, waves, seas and lakes and the power of green growth bursting through the soil. Reversed: This rune reversed symbolizes stormy waters and emotional turmoil.",
+    "image": "474.png",
+    "edition": 474,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/474.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Laguz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Detail"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Transverse"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

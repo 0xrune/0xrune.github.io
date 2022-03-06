@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #571",
+    "rune": "White Sowilo",
+    "description": "A Rune sacred to Balder, the beautiful God and the Solar Wheel. Right Side: A rune of health, wealth and happiness and contact with one's higher self. Now is the time to use the sun's energy for regeneration and reveal secrets that are hidden. Other meanings include: creativity, guidance particularly of sailors, spiritual power to 'resist disintegration', the light of the world and positive beneficial magic. Reversed: This rune reversed warns of the possibility of carelessness or recklessness leading to ill health or danger.",
+    "image": "571.png",
+    "edition": 571,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/571.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "White Sowilo"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Enhance"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Transverse"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "1"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

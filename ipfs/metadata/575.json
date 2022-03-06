@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #575",
+    "rune": "Black Hagalaz",
+    "description": "A rune sacred to Heindall the watcher and Mordgud, keeper of the icy bridge to the underworld. Right Side: A rune that warns of illness. Hagal means hail and is symbolic of uncontrolled and destructive forces. It is a time of upheaval, discord and disruption and general bad luck. There will be setbacks and problems all which need to be endured in order to come through on the other side. Reversed: This rune reversed is indicative of uncontrollable events leading to delays.",
+    "image": "575.png",
+    "edition": 575,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/575.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Black Hagalaz"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

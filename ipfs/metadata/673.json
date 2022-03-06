@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #673",
+    "rune": "Red Eihwaz (Reversed)",
+    "description": "A Rune sacred to Odin, who gathered the dead souls for their journey to Valhalla or the underworld. Right Side: As with the 13th card of death in the tarot deck, this rune is also symbolic of death, but death in the sense of a cycle of life. It highlights the importance of death in human life as in death, regeneration and rebirth. This rune is symbolic of the gate to the underworld. Patience is needed to work through a period of stagnation. Old ways will pass giving rise to the new. Reversed: This rune reversed symbolizes nostalgia and a hankering for the past. It can also represent emotional problems linked to the death of a loved one.",
+    "image": "673.png",
+    "edition": 673,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/673.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Copper"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Eihwaz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Detail"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Rotate180"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

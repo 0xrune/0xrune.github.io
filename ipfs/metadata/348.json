@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #348",
+    "rune": "Black Inguz",
+    "description": "A Rune sacred to Frey, Summer sun and consort of Freya. Right Side: This is a rune of peace and prosperity, also fertility especially male potency. It is symbolic of the erect phallus and fertilizing power. Projects, ideas and even people reach their full potential. Matters come to a head and problems are resolved. The hearth and home are protected. Reversed: This rune reversed warns of the need to be more diligent and that progress is being blocked.",
+    "image": "348.png",
+    "edition": 348,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/348.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Slate"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Black Inguz"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

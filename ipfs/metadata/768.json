@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #768",
+    "rune": "White Raidho (Reversed)",
+    "description": "A Rune sacred to Thor and thunder. Right Side: A rune of personal development and transformation. This rune is indicative of journeys and travel. The journeys may be of a physical or spiritual nature, but either way will bring about some positive developments. It is also a time of choice and of making the right move to ensure all effort and energy is channeled in the right direction. Reversed: This rune reversed is indicative of delays and possibly difficult journeys. It can also mean that there are important lessons that need to be learned.",
+    "image": "768.png",
+    "edition": 768,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/768.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Slate"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "White Raidho"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #086",
+    "rune": "Red Algiz (Reversed)",
+    "description": "A Rune sacred to Heimdall, the watcher. Right Side: A Rune symbolic of protection and shelter. Temptation may be put in the way of an individual, but this is to be resisted. Emotions must be contained, and pain and strife overcome in order to move forward. Other meanings include: new beginnings, protect what has been worked for, the hand sign to ward off evil, divine aspirations, elk-sedge a plant which hurts anyone who touches it and a strong symbol of protection. Reversed: This rune reversed warns of avoiding danger which may be caused by another person.",
+    "image": "86.png",
+    "edition": 86,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/86.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Slate"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "None"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Algiz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Sharpen"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "FlipHorizontal"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "1"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

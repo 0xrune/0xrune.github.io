@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #129",
+    "rune": "Black Nauthiz",
+    "description": "A Rune sacred to Norns, weavers of fate and Nort, Goddess of night who gives birth to day. Right Side: A rune of limit, limitation and patience. Keywords include: necessity, need, absence, sadness, tiredness. It is indicative of the hardship of existing on less than enough. Much hard work and patience is needed to work through the pain and strife, but the experience must be treated as a period of learning in order to overcome difficulty rather than becoming bitter. There is a warning against greed and desire as this will only prove destructive. Reversed: This rune reversed warns against hasty decisions and careful thought about any pending commitment.",
+    "image": "129.png",
+    "edition": 129,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/129.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Valknut"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Black Nauthiz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Detail"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Transpose"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0.75"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #666",
+    "rune": "Black Ansuz",
+    "description": "A Rune sacred to Odin, God of Wind and Spirit. Right Side: A rune of God's blessing and joy. A time to expect the unexpected, new beginnings and communications, messengers, signals and gifts. A guarantee of harmony and order. A warning to fortify oneself before attempting to come to the aid of others. 'The divine breath, the sacred ash and the world tree.' As this rune is also representative of Odin himself other meanings associated with this rune are: wisdom, psychic power and aid from someone older. Reversed: This rune reversed serves as a warning against trickery or pranks, this is even more true if it involves an older person. A warning against an older person causing trouble or playing tricks and games. Think carefully before accepting any advice.",
+    "image": "666.png",
+    "edition": 666,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/666.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Slate"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Black Ansuz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Detail"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Rotate180"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

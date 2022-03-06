@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #329",
+    "rune": "White Thurisaz (Reversed)",
+    "description": "A Rune sacred to Loki, trickster and shape changer. Right Side: A rune of negative change, contemplation and conflict. Synonymous with the hammer of Thor, this rune represents: trolls, demons, giants and male power. Strength may be found by observing the past and future. As Thor was the Norse God of strength other key meanings of this rune are security, protection and possibly good news. Reversed: Thorn (th) as a thorn bush can indicate dangers of a smaller less significant kind. However, reversed this rune can indicate unfavorable news or a sense of feeling vulnerable.",
+    "image": "329.png",
+    "edition": 329,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/329.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "White Thurisaz"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

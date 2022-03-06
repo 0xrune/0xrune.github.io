@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #417",
+    "rune": "Black Othila (Reversed)",
+    "description": "A Rune sacred to heritage. Right Side: This is a rune of inheritance and the discarding of traditional well-worn ways in order to move forward. It symbolizes mental and spiritual heritage, property and old traditions and family values. Other meanings associated with this rune are the freeing of an individual from a group or clan, fundamental ideas and spiritual values. Although something may have to be given up or lost in order to acquire property or an estate, the wise use of resources is indicated here. Reversed: This rune reversed is symbolic of family disputes and break ups, problems with parents and possibly arguments or problems with any inheritances.",
+    "image": "417.png",
+    "edition": 417,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/417.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Black Othila"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

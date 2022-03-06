@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #691",
+    "rune": "Red Wunjo",
+    "description": "A Rune sacred to Odin. Right Side: A rune of material and emotional gain, through diligence. It also indicates comfort and renewed energy. Situations will change for the better. Peace balance and harmony are the keywords with the possibility that wishes will be fulfilled. A time to re-evaluate one's plans and goals as darkness has given way to light. Reversed: This rune reversed is indicative of conflicts and changes that are not positive. It is a warning to anticipate strife in certain situations.",
+    "image": "691.png",
+    "edition": 691,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/691.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Wunjo"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

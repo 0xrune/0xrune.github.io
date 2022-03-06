@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #133",
+    "rune": "Red Dagaz (Reversed)",
+    "description": "A Rune sacred to Heimdall, the watcher. Right Side: This is a rune of harmonious unexpected success. It is a balance between light and darkness; as night gives way to dawn, this gives way to day and so on. It is a beacon of light bringing forth clarity, success and abundance in life. The time is right to embark upon a new project but be cautious in the journey forward. Reversed: This rune reversed warns of treading carefully and conserving energy.",
+    "image": "133.png",
+    "edition": 133,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/133.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Dagaz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Enhance"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "FlipVertical"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

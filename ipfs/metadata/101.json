@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #101",
+    "rune": "Red Teiwaz",
+    "description": "A Rune sacred to Tyr, Lord of the Heavens and war leader. Right Side: A rune of bravery and steadfastness in the face of any adversity. New partnerships will produce great things. This is a rune of energy, contentment and passion and it is a much-used talisman. Other meanings include: a brave and noble death, self-knowledge, faith, victory and success in law and war. Reversed: This rune reversed is symbolic of frustrations and quarrels that sap the strength.",
+    "image": "101.png",
+    "edition": 101,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/101.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Marble"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Elvish"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Teiwaz"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Smooth"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Rotate270"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "1"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "False"
+        }
+    ]
+}

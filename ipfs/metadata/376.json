@@ -1,0 +1,47 @@
+{
+    "name": "Rune NFT #376",
+    "rune": "Red Raidho (Reversed)",
+    "description": "A Rune sacred to Thor and thunder. Right Side: A rune of personal development and transformation. This rune is indicative of journeys and travel. The journeys may be of a physical or spiritual nature, but either way will bring about some positive developments. It is also a time of choice and of making the right move to ensure all effort and energy is channeled in the right direction. Reversed: This rune reversed is indicative of delays and possibly difficult journeys. It can also mean that there are important lessons that need to be learned.",
+    "image": "376.png",
+    "edition": 376,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/376.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "Valknut"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "Red Raidho"
+        },
+        {
+            "trait_type": "Filter",
+            "value": "Enhance"
+        },
+        {
+            "trait_type": "Transpose",
+            "value": "Rotate180"
+        },
+        {
+            "trait_type": "ColorEnhance",
+            "value": "0"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}

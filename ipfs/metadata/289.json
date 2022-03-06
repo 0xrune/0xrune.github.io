@@ -1,0 +1,35 @@
+{
+    "name": "Rune NFT #289",
+    "rune": "White Uruz (Reversed)",
+    "description": "A Rune sacred to Thor, God of thunder and strength. Right Side: A rune of creativity and sexual energy. UR also represents the death of a cycle, out with the old wild ox and in with the new. May indicate a dark period with material loss or the loss of a person but new opportunities will arise from this. It is indicative of an unpredictable power, tests and greed. Opportunities, sexuality and good luck are the keywords for this rune. Reversed: Opportunities that have passed by possible health problems and a lack of progress in certain areas.",
+    "image": "289.png",
+    "edition": 289,
+    "collection": "Rune NFT",
+    "symbol": "RUNE",
+    "properties": {
+        "files": [
+            {
+                "uri": "ipfs://<CID>/289.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Stone",
+            "value": "Onyx"
+        },
+        {
+            "trait_type": "Artifact",
+            "value": "None"
+        },
+        {
+            "trait_type": "Rune",
+            "value": "White Uruz"
+        },
+        {
+            "trait_type": "Reversed",
+            "value": "True"
+        }
+    ]
+}
