@@ -62,22 +62,22 @@
       document.addEventListener('scroll', function(e) {
         y = window.pageYOffset;
         if (160 <= y) {
-          document.querySelector('.uk-logo').style["min-height"] = "40px";
+          document.querySelector('.uk-logo').style["min-height"] = "32px";
         } else {
-          document.querySelector('.uk-logo').style["min-height"] = "80px";
+          document.querySelector('.uk-logo').style["min-height"] = "64px";
         }
       });
     </script>
-    <script type="module" crossorigin src="/assets/index.497c8ba9.js"></script>
-    <link rel="modulepreload" href="/assets/vendor.4da45af2.js">
-    <link rel="stylesheet" href="/assets/index.b14e1002.css">
+    <script type="module" crossorigin src="/assets/index.a66865cb.js"></script>
+    <link rel="modulepreload" href="/assets/vendor.f6009518.js">
+    <link rel="stylesheet" href="/assets/index.3fec0079.css">
   </head>
   <body>
-    <header class="uk-section uk-padding-remove uk-background-cover hero" uk-parallax="bgy: -200;easing: -1;">
+    <header class="uk-section uk-padding-remove uk-background-cover hero" uk-parallax="bgy: 500;easing: -1;">
       <aside style="min-height: 80px;"></aside>
       <div class="uk-margin-top">
-        <div id="topBar" uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent; top: 160">
-          <nav class="uk-navbar-container uk-container uk-light" uk-navbar>
+        <div id="topBar" class="uk-navbar-container uk-navbar-transparent" uk-sticky="show-on-up: true; animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; top: 160">
+          <nav class="uk-container uk-light" uk-navbar>
             <div class="uk-navbar-left">
               <a class="uk-navbar-item" href="/">
                 <img class="uk-logo" src="/assets/logo.257ae763.svg" alt="Runes NFT Logo"/>
@@ -85,19 +85,19 @@
             </div>
             <div class="uk-navbar-right uk-navbar-item">
               <ul class="uk-iconnav uk-flex-center">
-                <li><a href="#discord" uk-icon="icon: discord"></a></li>
-                <li><a href="#twitter" uk-icon="icon: twitter"></a></li>
+                <li><a href="#discord" uk-icon="icon: discord; ratio: 1.5"></a></li>
+                <li><a href="#twitter" uk-icon="icon: twitter; ratio: 1.5"></a></li>
               </ul>
             </div>
           </nav>
         </div>
         <div class="uk-container uk-padding-large@s">
-          <div class="uk-grid-match uk-child-width-1-2@m" uk-grid>
-            <div class="uk-flex uk-flex-center uk-flex-middle uk-margin-auto uk-padding">
-              <h1 class="uk-heading uk-light" uk-parallax="opacity: 1,0; y: 0,100; scale: 1,0;">We're bringing the magic of ancient runes to the blockchain!</h1>
-              <p class="uk-text-lead uk-text-muted uk-light" uk-parallax="opacity: 1,0; y: 0,-100; scale: 1,0; viewport: 0.8;">A collection of 777 unique and randomly generated magical runes.</p>
+          <div class="uk-grid-match uk-child-width-1-2@s" uk-grid>
+            <div class="uk-flex uk-flex-center uk-flex-middle uk-padding">
+              <h1 class="uk-heading uk-text-right@s uk-light" uk-parallax="opacity: 1,0; y: 0,-100; scale: 1,0;">We're bringing the magic of ancient runes to the blockchain!</h1>
+              <p class="uk-text-lead uk-text-right@s uk-text-muted uk-light" uk-parallax="opacity: 1,0; y: 0,-100; scale: 1,0; viewport: 0.8;">A collection of 777 unique and randomly generated magical runes.</p>
             </div>
-            <div class="uk-visible@m">
+            <div class="uk-visible@s">
               <div class="uk-flex uk-flex-center uk-flex-middle uk-width-large uk-margin-auto" uk-parallax="opacity: 1,0; y: 0,200; scale: 1,0; viewport: 0.8;">
                 <img src="/assets/1.0c29a7fc.png" alt="Rune NFT Token" />
               </div>
