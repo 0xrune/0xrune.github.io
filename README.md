@@ -43,4 +43,4 @@ Static site for Rune NFT project.
 
 Access to the contract and a hardhat environment is required to test the application.
 
-If you are interested in reviewing/testing this application please open an [Issue](./issues/new?labels[]=review&title=Access%20to%20contract%20for%20testing).
+If you are interested in reviewing/testing this application please open an [Issue](https://github.com/0xrune/0xrune.github.io/issues/new?labels[]=review&title=Access%20to%20contract%20for%20testing).
